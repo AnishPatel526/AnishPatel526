@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Anish! 👋
 
 I'm a CS and Statistics student at UNC Chapel Hill.
 
