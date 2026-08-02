@@ -4,7 +4,7 @@ I'm a CS and Statistics student at UNC Chapel Hill.
 
 Passionate about Tech and Software Engineering.
 
-On the side, I love to try new food and workout.
+On the side, I love to travel and experience new things!
 
 [LinkedIn](https://linkedin.com/in/anish-patel1) [Portfolio](https://anishpatel.xyz)
 
