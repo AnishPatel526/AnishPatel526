@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://anishpatel526.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-7BAFD4?style=flat-square&amp;logo=safari&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.anishpatel.xyz"><img src="https://img.shields.io/badge/Portfolio-Visit-7BAFD4?style=flat-square&amp;logo=safari&amp;logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/anish-patel1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:appatel1@unc.edu"><img src="https://img.shields.io/badge/Email-Contact-4B9CD3?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
