@@ -20,6 +20,10 @@
 
 ## Open Source
 
+### [Hugging Face Hub](https://github.com/huggingface/huggingface_hub)
+
+Fixed a `load_dotenv` parser bug that incorrectly expanded escape sequences in single-quoted values, adding regression tests while preserving double-quoted behavior. [PR #4827](https://github.com/huggingface/huggingface_hub/pull/4827)
+
 ### [NVIDIA NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit)
 
 Contributed fixes for distributed job tracking and LLM evaluation, including configurable Dask timeouts, fail-fast validation, and backward-compatible timestamp handling with regression tests.
