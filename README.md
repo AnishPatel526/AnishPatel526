@@ -32,6 +32,13 @@ Contributed fixes for distributed job tracking and LLM evaluation, including con
 
 [PR #2159](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2159) · [PR #2140](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2140)
 
+### [Scrapy](https://github.com/scrapy/scrapy)
+
+Fixed a `LocalCache` bug that evicted an unrelated entry when updating an existing key at capacity, preserving the cache size and adding regression
+coverage. 
+
+[PR #8113](https://github.com/scrapy/scrapy/pull/8113)
+
 ## Featured Projects
 
 <table>
