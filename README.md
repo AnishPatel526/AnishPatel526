@@ -30,7 +30,7 @@ Fixed a `load_dotenv` parser bug that incorrectly expanded escape sequences in s
 
 Contributed fixes for distributed job tracking and LLM evaluation, including configurable Dask timeouts, fail-fast validation, and backward-compatible timestamp handling with regression tests.
 
-[PR #2159](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2159) · [PR #2140](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2140)
+[PR #2159](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2159) · [PR #2140](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2140) · [PR #2221](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2221)
 
 ### [Scrapy](https://github.com/scrapy/scrapy)
 
