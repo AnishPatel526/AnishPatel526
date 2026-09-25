@@ -20,10 +20,6 @@
 
 ## Open Source
 
-## Open Source
-
-Merged contributions with regression tests.
-
 ### [Hugging Face Hub](https://github.com/huggingface/huggingface_hub)
 
 - Fixed bucket copies mistaking similarly named paths for existing directories. [#5001](https://github.com/huggingface/huggingface_hub/pull/5001)
