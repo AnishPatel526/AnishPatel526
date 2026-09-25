@@ -20,17 +20,20 @@
 
 ## Open Source
 
+## Open Source
+
+Merged contributions with regression tests.
+
 ### [Hugging Face Hub](https://github.com/huggingface/huggingface_hub)
 
-Fixed a `load_dotenv` parser bug that incorrectly expanded escape sequences in single-quoted values, adding regression tests while preserving double-quoted behavior. 
-
-[PR #4827](https://github.com/huggingface/huggingface_hub/pull/4827)
+- Fixed bucket copies mistaking similarly named paths for existing directories. [#5001](https://github.com/huggingface/huggingface_hub/pull/5001)
+- Fixed `load_dotenv` expanding escape sequences inside single-quoted values while preserving double-quoted behavior. [#4827](https://github.com/huggingface/huggingface_hub/pull/4827)
 
 ### [NVIDIA NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit)
 
-Contributed fixes for distributed job tracking and LLM evaluation, including configurable Dask timeouts, fail-fast validation, and backward-compatible timestamp handling with regression tests.
-
-[PR #2159](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2159) · [PR #2140](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2140) · [PR #2221](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2221)
+- Fixed an LLM latency evaluator reporting `0.0` by correcting timestamp handling while preserving backward compatibility. [#2140](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2140)
+- Added configurable Dask submission timeouts to address jobs remaining stuck as `running`. [#2159](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2159)
+- Fixed `truncate_string` exceeding its maximum length for small limits. [#2221](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2221)
 
 ### [Scrapy](https://github.com/scrapy/scrapy)
 
