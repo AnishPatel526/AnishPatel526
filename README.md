@@ -33,7 +33,7 @@
 
 ### [Scrapy](https://github.com/scrapy/scrapy)
 
-Fixed a `LocalCache` bug that evicted an unrelated entry when updating an existing key at capacity, preserving the cache size and adding regression
+- Fixed a `LocalCache` bug that evicted an unrelated entry when updating an existing key at capacity, preserving the cache size and adding regression
 coverage. 
 
 [PR #8113](https://github.com/scrapy/scrapy/pull/8113)
